@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="@dimen/size_byte"
+    android:layout_marginLeft="@dimen/size_word"
+    android:layout_marginRight="@dimen/size_word"
+    android:layout_marginTop="@dimen/size_byte">
+
+    <ImageView
+        android:id="@+id/eventThumbnail"
+        android:layout_width="@dimen/hub_thumbnail_width"
+        android:layout_height="@dimen/hub_thumbnail_height"
+        android:layout_centerVertical="true"
+
+        android:src="@drawable/knuth_logo" />
+
+    <TextView
+        android:id="@+id/eventTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/eventThumbnail"
+        android:layout_marginLeft="56dp"
+        android:alpha="0.87"
+        android:gravity="right"
+        android:padding="@dimen/size_half_byte"
+        android:text="Hitman Agent 47"
+        android:textSize="@dimen/size_text_primary" />
+
+    <TextView
+        android:id="@+id/eventDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/eventTitle"
+        android:alpha="0.87"
+        android:padding="@dimen/size_half_byte"
+        android:text="31-31-31"
+        android:textSize="@dimen/size_text_secondary" />
+
+
+</RelativeLayout>

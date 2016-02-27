@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Collnect\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a710e577cbcc5b9c24c85b2f28c89d8d38dfd293.jar" />
+    </item>
+    <item
+        jar="E:\Collnect\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Collnect\app\build\intermediates\pre-dexed\debug\classes-939b562b100e47d17f33f5332aa862336def79a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\vidit\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\Collnect\app\build\intermediates\pre-dexed\debug\library-2.4.0-874f195e3bf3657e6fc90e8a0a72afc283c552ef.jar" />
+    </item>
+    <item
+        jar="E:\Collnect\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Collnect\app\build\intermediates\pre-dexed\debug\classes-ed84caf2dd21d07f5cb035337e6f56ed74825864.jar" />
+    </item>
+    <item
+        jar="E:\Collnect\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="E:\Collnect\app\build\intermediates\pre-dexed\debug\classes-c782d6cbf56b082a48a31502f24d8e22cf4e9960.jar" />
+    </item>
+    <item
+        jar="E:\Collnect\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.2.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="E:\Collnect\app\build\intermediates\pre-dexed\debug\classes-0c82516662cb0de167760b95a6313bd516348619.jar" />
+    </item>
+    <item
+        jar="E:\Collnect\app\libs\volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="E:\Collnect\app\build\intermediates\pre-dexed\debug\volley-eb7336a6d2727ce5f283cdc989ad6a1989337c61.jar" />
+    </item>
+    <item
+        jar="E:\Collnect\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="E:\Collnect\app\build\intermediates\pre-dexed\debug\classes-cab1270903c636cc272dd5c4da5eb5453dc7ec8f.jar" />
+    </item>
+    <item
+        jar="E:\Collnect\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\1.2.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="19fca4378b6bf4dcb8a606d87d4f4da8286297ef">
+        <dex dex="E:\Collnect\app\build\intermediates\pre-dexed\debug\classes-bdf4307a76828f689e4ae8fc8f18e0c827a8699d.jar" />
+    </item>
+    <item
+        jar="E:\Collnect\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Collnect\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-850db80d645e7b1133140c9b434077ea26fd0b24.jar" />
+    </item>
+    <item
+        jar="E:\Collnect\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="E:\Collnect\app\build\intermediates\pre-dexed\debug\classes-fad4729dfbb2cf531d0c8ecfd743440b309d6f07.jar" />
+    </item>
+    <item
+        jar="E:\Collnect\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="E:\Collnect\app\build\intermediates\pre-dexed\debug\classes-93694577ff27fc6f140605780f29859ff8ab2273.jar" />
+    </item>
+
+</items>
